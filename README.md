@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrj178
+- 👀 I’m interested in Business Analytics, Data Analytics
+- 🌱 I’m currently learning python3
+- 📫 you can reach me here - mdmerajs178@gmail.com
